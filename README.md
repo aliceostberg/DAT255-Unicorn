@@ -26,9 +26,9 @@ Software Engineering Project
 <br>
 <br>
 **Three KPIs for monitoring our progress**
-<br>• Quantity of code
-<br>• Indvidual contribution (in percent)
-<br>• Quality of code (use FindBugs)
+<br>• Quantity of code: We will each week count the amount of rows produced to further see that the amount of time will be reasonably distributed during the project. Also work as motivation to produce code early on.
+<br>• Indvidual contribution (in percent): Since the team should provide equal effort we will each week check (in percent) how much each user has contributed. This number should work as an indicator to how much more (or possibly less) you should work next week.
+<br>• Quality of code (use FindBugs): Since quantity doesn’t equal quality we will try to estimate the actual quality. That by testing the code and check amount of bugs in comparison with amount of rows.
 <br>
 <br>
 **Roles:**
