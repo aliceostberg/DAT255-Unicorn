@@ -34,9 +34,9 @@ Roles:
 <br>
 <br>
 Platform- How do we communicate with each other? 
-<br>Communication by Slack
-<br>All team and individual reflections will be uploaded to GitHub
-<br>Coding by Github, Github Desktop and Atom/SublimeText
+<br>•Communication by Slack
+<br>•All team and individual reflections will be uploaded to GitHub
+<br>•Coding by Github, Github Desktop and Atom/SublimeText
 
 
 
