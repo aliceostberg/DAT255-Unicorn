@@ -32,9 +32,9 @@ Software Engineering Project
 <br>
 <br>
 **Roles:**
-<br>•
-<br>•
-<br>•
+<br>• SCRUM Product Owner - App Client
+<br>• SCRUM Master
+<br>• SCRUM Team
 <br>
 <br>
 **Platform - How do we communicate with each other?** 
