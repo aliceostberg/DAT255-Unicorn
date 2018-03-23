@@ -3,7 +3,7 @@ Software Engineering Project
 
 # Social Contract
 
-Team members: 
+**Team members:**
 <br>Alice Östberg
 <br>Clara Holländer
 <br>Levin Ahlsell
@@ -11,33 +11,33 @@ Team members:
 <br>Stina Ströby
 <br>
 <br>
-Desired outcome:
+**Desired outcome:**
 <br>• Learn how to design and develope software
 <br>• Learn how to manage IT projects
 <br>• To develope an app/program
 <br>• Weekly reflecting on pre-designed topics (which bring value to the process)
 <br>
 <br>
-Success criterias:
+**Success criterias:**
 <br>• A functioning app/program
 <br>• A structured process
 <br>• Great code quality
 <br>• Great team spirit
 <br>
 <br>
-Three KPIs for monitoring our progress
+**Three KPIs for monitoring our progress**
 <br>• Quantity of code
 <br>• Indvidual contribution (in percent)
 <br>• Quality of code (use FindBugs)
 <br>
 <br>
-Roles:
+**Roles:**
 <br>•
 <br>•
 <br>•
 <br>
 <br>
-Platform - How do we communicate with each other? 
+**Platform - How do we communicate with each other?** 
 <br>• Communication by Slack
 <br>• All team and individual reflections will be uploaded to GitHub
 <br>• Coding by Github, Github Desktop and Atom/SublimeText
@@ -46,14 +46,14 @@ Platform - How do we communicate with each other?
 
 # Reflections
 
-Individual:
+**Individual:**
 <br>
 <br>•	what do I want to learn or understand better?
 <br>•	how can I help someone else, or the entire team, to learn something new?
 <br>•	what is my contribution towards the team’s application of scrum?
 <br>•	what is my contribution towards the team’s deliveries? That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation)
 
-Team:
+**Team:**
 <br>
 <br>• Social contract
 <br>• Success criteria for the teams (what do we want to achieve with our application) 
