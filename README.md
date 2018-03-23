@@ -47,6 +47,7 @@ Software Engineering Project
 <br>• Communication by Slack
 <br>• All team and individual reflections will be uploaded to GitHub
 <br>• Coding by Github, Github Desktop and Atom/SublimeText
+<br>• SCRUM board on Trello
 
 
 
