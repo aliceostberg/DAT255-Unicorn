@@ -37,6 +37,12 @@ Software Engineering Project
 <br>• SCRUM Team
 <br>
 <br>
+**Empowerment & Self organization:**
+<br>The Scrum Team has to be empowered to define
+<br>• What it will commit to deliver at the end of the sprint
+<br>• How the expected results have to be broken down into tasks
+<br>• Who will perform the task and in which order they are performed
+
 **Platform - How do we communicate with each other?** 
 <br>• Communication by Slack
 <br>• All team and individual reflections will be uploaded to GitHub
