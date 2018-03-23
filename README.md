@@ -9,36 +9,30 @@ Team members:
 <br>Levin Ahlsell
 <br>Rikard Eriksson
 <br>Stina Ströby
-
-Desired outcome:
 <br>
+Desired outcome:
 <br>• Learn how to design and develope software
 <br>• Learn how to manage IT projects
 <br>• To develope an app/program
 <br>• Weekly reflecting on pre-designed topics (which bring value to the process)
 <br>
 Success criterias:
-<br>
 <br>• A functioning app/program
 <br>• A structured process
 <br>• Great code quality
 <br>• Great team spirit
 <br>
-<br>
 Three KPIs for monitoring our progress
-<br>
 <br>• Quantity of code
 <br>• Indvidual contribution (in percent)
 <br>• Quality of code (use FindBugs)
 <br>
 Roles:
-<br>
 <br>•
 <br>•
 <br>•
 <br>
 Platform - How do we communicate with each other? 
-<br>
 <br>• Communication by Slack
 <br>• All team and individual reflections will be uploaded to GitHub
 <br>• Coding by Github, Github Desktop and Atom/SublimeText
