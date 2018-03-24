@@ -40,11 +40,14 @@ The behavioral overview of your application (for example through use cases, inte
 Since we don’t know the brief and haven’t started the product development we cannot comment on this.
 
 The structural overview of your application(domain model):
-We aim to have a good structure and use the knowledge we gathered in previous courses to use a good framework, e-r diagram and a good design pattern for the code. 
+We aim to have a good structure and use the knowledge we gathered in previous courses to use a good framework,
+e-r diagram and a good design pattern for the code. 
 
 Your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation:
-User stories are a fast way to handle demand without having to create formal requirements specifications and administrative work to keep them updated. 
-As for learnings from our side we learned during the scrum (lego) exercise that it is easy to gold coat projects if the time estimation was wrong. We also learned that we should stick to the prio-list, even if we have made errors in the task breakdown, effort estimation and velocity determination. 
+User stories are a fast way to handle demand without having to create formal requirements specifications and administrative
+work to keep them updated. As for learnings from our side we learned during the scrum (lego) exercise that
+it is easy to gold coat projects if the time estimation was wrong. We also learned that we should stick to the prio-list,
+even if we have made errors in the task breakdown, effort estimation and velocity determination. 
 
 Code quality using a tool such as Findbugs:
 Is related to one of our KPIs so we will definitely work with this throughout the process. 
@@ -54,7 +57,8 @@ This week we started with Trello which is a tool we will use in order to work mo
 
 The time you have spent on the course:
 From the pattern, storming, forming, norming and performing our group this week has been in the storming phase. 
-Trying to grasp the course and whats expected of us. So the time spent on the course has mainly covered to get informed and structure what we can structure.   
+Trying to grasp the course and whats expected of us. So the time spent on the course has mainly covered to get
+informed and structure what we can structure.
 
 The sprint review(either in terms of the outcome of the current week’s exercise or meeting the product owner):
 The LEGO workshop was a good introduction to scrum however it is difficult to grasp the overall picture during that
