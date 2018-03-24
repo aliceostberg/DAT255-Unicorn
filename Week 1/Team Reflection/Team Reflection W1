@@ -1,65 +1,64 @@
 Social contract:
 This week we have started the social contract and talked about the desired outcome, success criterias, 
-and how we want to work and what to think about in order to work agile. Whats important to reflect upon
-is the purpose of the social contract - why did we make it. The purpose with the social contract is to
-measure expectations and create a solid base for the project, make sure that everyone is aligned. 
-
+and how we want to work and what to think about in order to work agile. Whats important to reflect 
+upon is the purpose of the social contract - why did we make it. The purpose with the social contract
+is to measure expectations and create a solid base for the project, make sure that everyone is aligned. 
+ 
 Success criteria for the teams (what do we want to achieve with our application): 
-<<fill in text here>>
+Since we are all beginners and have never developed an app, one success criteria would be to get the 
+app to work properly,built on great code quality and be eastethictly pleasing with a good UX & UI. 
+We also want to embrace the process, so to have a structured process along with great team spirit
+is also success criterias. 
 
 Three KPIs we use for monitoring our progress:
 When coming up with relevant KPIs our strategy was to break down the process and see what brings us forward. 
 
 Our conclusion was to measure three things:
--How much do we produce each week and the metric for that is the quantity of code.
--It is also important that we not only produce code but make sure it is good and works and to measure that
-we wanted to look at the metric quality of code and measure by Findbugs and user-testing. 
--Last but not least we want every team member to participate equally much so the third KPI is individual
-contribution.
+- How much do we produce each week and the metric for that is the quantity of code.
+- It is also important that we not only produce code but make sure it is good and works and to measure that we
+wanted to look at the metric quality of code and measure by Findbugs and user-testing. 
+- Last but not least we want every team member to participate equally much so the third KPI is individual contribution.
 
 Roles in our team:
 At this stage, it was hard to decide roles since we do not have a full group yet. Hopefully we can talk more about
-roles next week. We have looked into the strutture of SCRUM teams and usually you need a scrum master, scrum 
-team and scrum product owner.
+roles next week. We have looked into the structure of SCRUM teams and usually you need a scrum master,
+scrum team and scrum product owner. 
 
-Relation to literature and guest lectures:
-<<fill in text here>>
-
-The chosen scope of the application under development, including priority of features and for whom you are
-creating value:
-<<fill in text here>>
-
+Relation to litteratur and guest lectures:
+As a compliment to the lecuture and exercise regarding SCRUM methodology we will take part of given SCRUM-litterature. 
+As for further litterature regarding developing we will try to define our relation to that later on.
+The chosen scope of the application under development, including priority of features and for whom you are creating value
+Since we don’t know the brief and haven’t started the product development we cannot comment on this.
 
 Your acceptance tests, such as how they were performed and with whom:
-<<fill in text here>>
+Since we don’t know the brief and haven’t started the product development we cannot comment on this.
 
 The design of your application:
 Since we don’t know the brief and haven’t started the product development we cannot comment on this. 
 
-The behavioral overview of your application (for example through use cases, interaction diagrams): 
+The behavioral overview of your application (for example through use cases, interaction diagrams):
 Since we don’t know the brief and haven’t started the product development we cannot comment on this.
 
-
 The structural overview of your application(domain model):
-We aim to have a good structure and use the knowledge we gathered in previous courses to use a good framework,
-e-r diagram and a good design pattern for the code. 
+We aim to have a good structure and use the knowledge we gathered in previous courses to use a good framework, e-r diagram and a good design pattern for the code. 
 
 Your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation:
-<<fill in text here>>
+User stories are a fast way to handle demand without having to create formal requirements specifications and administrative work to keep them updated. 
+As for learnings from our side we learned during the scrum (lego) exercise that it is easy to gold coat projects if the time estimation was wrong. We also learned that we should stick to the prio-list, even if we have made errors in the task breakdown, effort estimation and velocity determination. 
 
 Code quality using a tool such as Findbugs:
 Is related to one of our KPIs so we will definitely work with this throughout the process. 
  
 The agile practices you have used for the current sprint:
-<<fill in text here>>
+This week we started with Trello which is a tool we will use in order to work more agile.
 
 The time you have spent on the course:
-Since a lot of the team-members were away this week the work has been divided and not equally distributed.
-Next week we will hopefully have a better structure.
+From the pattern, storming, forming, norming and performing our group this week has been in the storming phase. 
+Trying to grasp the course and whats expected of us. So the time spent on the course has mainly covered to get informed and structure what we can structure.   
 
-The sprint review(either in terms of the outcome of the current week’s exercise or meeting the product owner:
-The LEGO workshop was a good introduction to scrum however it is difficult to grasp the overall picture during
-that amount of time. But everyone look forward to learn more about the SCRUM methodology.
+The sprint review(either in terms of the outcome of the current week’s exercise or meeting the product owner):
+The LEGO workshop was a good introduction to scrum however it is difficult to grasp the overall picture during that
+amount of time. But everyone look forward to learn more about the SCRUM methodology.
 
 Best practices for using new tools and technologies:
-<<fill in text here>>
+This week we have started to use and get familiar with Trello and GitHub.
