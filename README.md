@@ -32,9 +32,9 @@ Software Engineering Project
 <br>
 <br>
 **Roles:**
-<br>• SCRUM Product Owner - App Client
-<br>• SCRUM Master
-<br>• SCRUM Team
+<br>• SCRUM Product Owner - Clara
+<br>• SCRUM Master - Rikard
+<br>• SCRUM Team - The rest of the group
 <br>
 <br>
 **Empowerment & Self organization:**
@@ -49,7 +49,9 @@ Software Engineering Project
 <br>• Coding by Github, Github Desktop and Atom/SublimeText
 <br>• SCRUM board on Trello
 
-
+**Meetings:**
+<br>• Weekly meeting on wednesday, end of sprint, reflecting and planning
+<br>• Regulary check ins every weekday
 
 # Reflections
 
