@@ -1,4 +1,4 @@
-# DAT255-2018
+# DAT255-Unicorn
 Software Engineering Project
 
 # Social Contract
@@ -27,7 +27,7 @@ Software Engineering Project
 <br>
 **Three KPIs for monitoring our progress**
 <br>• __*Quantity of code:*__ We will each week count the amount of rows produced to further see that the amount of time will be reasonably distributed during the project. Also work as motivation to produce code early on.
-<br>• __*Indvidual contribution (in percent):*__ Since the team should provide equal effort we will each week check (in percent) how much each user has contributed. This number should work as an indicator to how much more (or possibly less) you should work next week.
+<br>• __*Indvidual contribution (in percent):*__ Since the team should provide equal effort we will each week check (in percent) how much each user has contributed. The metric will be time spent which we will log. This number should work as an indicator to how much more (or possibly less) you should work next week. 
 <br>• __*Quality of code (use FindBugs):*__ Since quantity doesn’t equal quality we will try to estimate the actual quality. That by testing the code and check amount of bugs in comparison with amount of rows.
 <br>
 <br>
