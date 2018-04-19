@@ -1,1 +1,66 @@
 
+Social contract 
+-	Än så länge anser vi att vi följer det social contract vi konstruerat. 
+
+• Success criteria for the teams (what do we want to achieve with our application) 
+-	A functioning app/program: Yes! Vi har inte gjort några ändringar i appen, men 		den fungerar! 
+-	A structured process:  Någon form iaf. Vi har haft gemensamma sessions som varit 	lyckade.
+-	Great code quality: Inte applicerbart än
+-	Great team spirit: Absolut! Glass och sangria kombinerat med programmering är 	mycket bra för gruppens 
+motivation och kreativitet! 
+
+• Three KPIs we use for monitoring our progress 
+-	Quantity of code: Inte applicerbar
+-	Indvidual contribution: Alla har jobbat hårt för att nå veckans mål. 
+-	Quality of code (use FindBugs): Inte applicerbar
+
+• Roles in our team.
+- 	Teamet inklusive vår "product owner" har genom två möten haft kontakt med 		slutanvändaren för att samla 
+user stories och få en uppfattning om deras faktiska 	behov. 
+
+• Relation to litterature and guest lectures 
+- 	Vi var på föreläsning om agilt arbetssätt, vilket gav oss större förståelse för vad 		detta innebär. Vi 
+har dessutom under denna sprint haft två möten med våra 		klienter. Under det första mötet fick vi en genomgång 
+över hur deras arbetsdagar 	ser ut, vilka utmaningar de ställs inför, vilka system de jobbar med idag samt vilken 	
+information de behöver från andra aktörer för att kunna utföra sitt jobb på bästa vis. 
+ 
+	Under det andra mötet fick vi en guidad tur av hamnen av mooring företaget. Ledde till större förståelse av 
+  deras arbete och förhoppningsvis till mer relevanta	user stories, åtminstone för product owner. 
+
+The chosen scope of the application under development, including priority of features and for whom you are 
+creating value 
+- 	I gruppen har vi tagit beslut om att 
+
+• Your acceptance tests, such as how they were performed and with whom 
+	Vi har fått information om våra klienters önskemål och bygger upp våra user stories efter dessa. Vi vill göra 
+  Klas och de andra gubbarna på Mooring lyckliga. 
+
+• The design of your application 
+-	Än så länge har vi inte jobbat på designen, däremot har vi samlat user stories som 	har fått oss att tänka 
+kring design. Bland annat att de efterfrågar ett grafiskt 		gränssnitt på båtarna och andra parametrar som är 
+relevanta att ta med. Prioritet 	av user stories är något som ska göras denna veckan. Efter det planeras det att 		
+göra mockups.  
+
+• The behavioral overview of your application (for example through use cases, interaction diagrams) 
+- 	inte applicerbart. 
+
+• The structural overview of your application(domain model) 
+-  	inte applicerbart.
+
+• Your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation 
+- 	Vi ska gå igenom user stories och bestämma vad som ska göras i samråd med mooring företaget och utefter det bryta 
+ner valda user stories. 
+
+• Code quality using a tool such as Findbugs 
+- 	Inte applicerbart
+
+• The agile practices you have used for the current sprint 
+- 	Vi har använt oss av vårat scrum board för att börja forma en back log.
+
+• The time you have spent on the course 
+-	Den här veckan har vi kommit upp i tjugo timmar per person.
+
+• The sprint review(either in terms of the outcome of the current week’s exercise or meeting the product owner 
+best practices for using new tools and technologies
+-	Vi är nöjda med denna veckans sprint. Vi fick appen att funka och uppnådde vårt veckomål. VI fick också djupare 
+förståelse för hur förtöjningsbranschen (Mooring business)  fungerar och hur vi ska utforma våra user stories. 
