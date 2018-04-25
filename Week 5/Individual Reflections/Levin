@@ -1,0 +1,13 @@
+INDIVIDUAL REFLECTION W5 - Levin
+
+• What do I want to learn or understand better?
+So now that we understand all the programs we use and the basic functionality of the app, i really would like to understand how some of the parts of the app interact with other parts and how we should make us of that. For example, we would like to add Tonnage and Tel nbr to vesselinfo. How should we retrieve that information? From a database, manually or trough co-creation. This means that i (and the team) need to understand mooring and the connective parts of the app better. 
+
+• How can I help someone else, or the entire team, to learn something new?
+By slicing up my problem mentioned above in smaller tasks. We can delegate so that someone looks over how a database would look like or if there already is one. One could se how a co-creation method should be implemented and if that would create value for the moorers and product owners. Basicly evaluating different options wich leads that the individual learns about a certain part and the group as whole learns about all the "parts". 
+
+• What is my contribution towards the team’s application of scrum? 
+I think that we have applied scrum much better this week than previous weeks. This is probably due to that previous weeks focused on getting the technical things to work and this week and forward was about finding ways to create value for the moorers and the product owners. We have chosen user stories to focus on and almost solved one or two of those. What we need to do coming weeks is to estimate our speed and the scope of every story so that we can manage our work more efficient. 
+
+• What is my contribution towards the team’s deliveries? 
+I have helped other group members with getting the app working and trying out commits to git. We also managed to actually write some code wich is a big step forward! You can say that we have a trial and error method regarding coding. We also learned about merge errors as i made some changes and commited to an old masterbranch while another groupmember commited changes on a newer version. 
