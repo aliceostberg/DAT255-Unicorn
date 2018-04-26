@@ -1,12 +1,22 @@
 INDIVIDUAL REFLECTION W4
 
 • What do I want to learn or understand better?
+During this sprint all of us have achieved to start the application. Unfortunately we had some problems with the .gitignore 
+file, so when we changed one row in the javascript and commited the change to the master bransch it seemed like we hade changed 
+approximately 1500 things, due to that the buildfiles wasn't ignored. What I want to learn by now is therefore how to start 
+over and how to make sure that we only see the changes that we've actually made in the javascript. 
+
+I also want to learn more about collaborating. We have put up a "Lathund" for the changing-code-procedure, so that, hopefully, 
+we won't have any merge conflics that we are unable to solve.  
 
 
 • How can I help someone else, or the entire team, to learn something new?
+We are all at the same basic level when it comes to app developing so I will do my best to find information about how it is 
+done most effectively and to keep the contact with my IT-colleague, who can help us when we have questions. Since we are a team,
+everything new I learn I will share with the other members since we all have the same goal.
 
 
 • What is my contribution towards the team’s application of scrum? 
-
+We've had a few meetings during this sprint and 
 
 • What is my contribution towards the team’s deliveries? 
