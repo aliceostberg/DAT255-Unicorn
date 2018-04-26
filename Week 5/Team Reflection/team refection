@@ -1,0 +1,113 @@
+• Social contract
+
+Desired outcome: 
+- Vi har alla utvecklats på denna front under veckan. Vi har fått en större förståelse för apputveckling, hur vi 
+enklast samarbetar samt hur vi löser problem när vi stöter på dem. Vi har dessutom reflekterat i den grad vi 
+förväntas och detta har hjälpt oss genom processen genom att vi utvärderat våra tillvägagångssätt. 
+
+Success criterias: 
+- Vi jobbar i linje med våra framgångsfaktorer. 
+
+Three KPIs for monitoring our progress:
+Vi har börjat inse att kvantitet av kod inte fungerat speciellt bra som KPI, då mycket tid hittills har lagt på
+annat som exempelvis möten med PO, skapa user stories, skapa en bra arbetsmiljö, bli bekanta med programmen osv.
+Framöver kommer även delar som design och use cases ta upp tid.   
+
+•Roles: 
+ SCRUM Product Owner - Clara 
+ SCRUM Master - Rikard 
+ SCRUM Team - The rest of the group 
+
+Empowerment & Self organization: 
+- Vi har mött våra mål för sprinten. 
+- Vi har på ett bra sätt brutit ner uppgifter & user stories i mindre beståndsdelar.
+- Vi har effektivt delegerat olika arbetsuppgifter på olika team members. 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+• Success criterias for the teams (what do we want to achieve with our application) 
+-	A functioning app/program: Vi har allihopa fått igång appen denna vecka, och vi har dessutom lyckats addera lite kod. 
+-	A structured process: Under denna sprint har vi sett en märkbar skillnad där vi haft en betydligt mer strukturerad process.
+  Detta hänger troligtvis ihop med att vi kommit något längre fram med de tekniska delarna och på så vis lyckats fokusera mer
+  på vad vi faktiskt vill åstadkomma. I söndags satt vi och bröt ner våra user stories i tasks och delegerade ut dessa till
+  olika team-medlemmar. Vi har även reflektera över tidsaspekten på respektive task och finner denna mycket relevant.
+  Vi tänker därför börja estimera tidsåtgången för dessa. 
+-	Great code quality: Den kanske inte är fantastisk men det är iaf kod!! 
+-	Great team spirit: Alltid! 
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+• Three KPIs we use for monitoring our progress 
+-	Quantity of code: Påbörjat kodandet denna veckan. 
+-	Indvidual contribution: Vi har alla lagt ner den tid som kursen 
+-	Quality of code (use FindBugs): Vi har inte använt FindBug då kodändringarna vi gjorde var väldigt små och okomplicerade. 
+Således vet vi inget om vår kodkvalitet, men det är något vi ämnar att applicera längre fram i processen.
+
+
+-----------------------------------------------------------------------------------------------------------------------
+• Roles in our team 
+- Vi har haft möte med produktägare för att diskutera om user storys som föreslagits av slutanvändare faktiskt tillför värde
+till plattformen. Vidare har vår scrum-master varit på scrum of scrum där vi försökt hitta om någon annan har börjat arbeta
+med api till databas. 
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+• Relation to litterature and guest lectures 
+- 	Vi har bollat med ämnesexperter för att få tips och trix om hur vi ska arbeta effektivt med kodandet.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+•The chosen scope of the application under development, including priority of features and for whom you are creating value 
+- Vi håller på att lägga till mer information under ”vessel info”, fartygets vikt så att mooring organisation kan fakturera därefter.
+Your acceptance tests, such as how they were performed and with whom 
+- Under super vision presenterade vi våra prioriterade user stories och fick feedback på dessa.
+
+-----------------------------------------------------------------------------------------------------------------------
+• The design of your application 
+Vi har inte fokuserat på design än.
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+• The behavioral overview of your application (for example through use cases, interaction diagrams) 
+- none.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+• The structural overview of your application(domain model) 
+- Vi har kartlagt den nuvarande funktionaliteten i appen för att ha en utgångspunkt för jämförelse.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+• Your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation 
+- Vi har börjat implementera user stories som vi har fått någorlunda kodmässig funktionalitet på. Dessa har vi också kollat
+med produktägare och sett till så att de tillför värde till plattformen. Det vi inte gjort är att uppskatta vår hastighet och 
+estimerat hur mycket tid varje user story tar rent formellt. Nu när vi börjat med kodandet så har vi en bättre uppfattning om 
+hur vi ska estimera denna vecka. 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+• Code quality using a tool such as Findbugs 
+- Vi har inte använt FindBug då kodändringarna vi gjorde var väldigt små och okomplicerade. Således vet vi inget om vår
+kodkvalitet, men det är något vi ämnar att applicera längre fram i processen.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+• The agile practices you have used for the current sprint 
+Vi har effektivt använt vår scrumboard för att välja user stories som passar vårt chosen scope samtidigt som det skapar värde
+för produktägare och 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+•The time you have spent on the course 
+- Alla har lagt heltid.  
+
+-----------------------------------------------------------------------------------------------------------------------
+•The sprint review(either in terms of the outcome of the current week’s exercise or meeting the product owner best practices for
+using new tools and technologies)
+ - Vi har effektivt använt scrum metodik och systematiskt valt ut relevanta user stories. Detta har lett till att vi äntligen börjat
+ koda vilket känns som ett stort framsteg. Inför nästa vecka vill vi kunna estimera user storys för att arbeta så effektivt som möjligt.
+ Vidare vill vi kunna säga att de user stories vi har påbörjat och nästan gjort klart - verkligen blir helt klara. 
