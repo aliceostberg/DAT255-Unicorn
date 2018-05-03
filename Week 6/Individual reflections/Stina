@@ -1,0 +1,37 @@
+WEEK 6
+
+What do I want to learn or understand better? 
+Even though it’s less prioritized I still would like to know what is actually needed/what has to be 
+done to make a graphic user interface of the live gps (an API from marinetraffic.com maybe?). We probably 
+won’t be able to do it but it would be a great addition to the app!
+
+The next user stories we’re will work with is to be able to track whether a ship has been in the port 
+before since the Mooring team is interested in “first timers” to give them extra help and instructions. 
+So I want to learn more about how to track the location in the app and how it is stored. 
+
+How can I help someone else, or the entire team, to learn something new? 
+If I learn how we can track the ships’ locations, it would really benefit the entire group and I can teach 
+them the technicalities behind it. If we also can learn more about tracking, then we could potentially 
+learn more about how to make the gps api. I could learn more about this by studying the code, the 
+instructions, by googling it and talk to those who made the code. 
+
+What is my contribution towards the team’s application of scrum? 
+I missed the beginning of the sprint (stubborn cold again) so I missed the start meeting were we planned 
+the sprint. My group had some technical issues that they solved so half of the sprint was focused on that. 
+But in the end of the sprint we really started to work in a SCRUM way by breaking down the user stories 
+to tasks and estimating the time of them and then on the velocity of the sprint. 
+
+We’ve also done the weekly SCRUM team reflection. 
+
+What is my contribution towards the team’s deliveries? That means that for the personal learning 
+objective you will each week write down what you have achieved in relation to last week's ambition 
+(technologies, concepts and skills learnt as well as how this was achieved), what you would like to 
+achieve for the next week and how to make the change happen. The first week of the course you describe 
+the current situation by motivating a learning objective. It is perfectly fine to change objective/s each 
+week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. 
+describing the current situation)
+
+In the beginning of the sprint I didn’t contribute that much. My team fixed some seriously technical 
+issues and I was still sick. In the end of the sprint though I worked together with Clara on the tonnage 
+user story. So we did research the possibility of getting the values from a database which was not the case. 
+And then we prepared the app for being able to show the tonnage in the future. 
