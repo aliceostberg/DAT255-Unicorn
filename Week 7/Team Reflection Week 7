@@ -1,31 +1,59 @@
--the chosen scope of the application under development including priority of features and for whom you are creating value
+Social contract:
 
--your social contract, which means you should create one in the first week
+Scope:
+we've limited the tonnage info to 10 boats because there was no database to access. this way we can show the users the alue of the tonnage info.
+This also means they can use it to justify getting access to a back-end database.
 
--the success criteria for the team in terms of what you want to achieve with your application
+The scope of the comment developement is currently limited to local storage. we revised this from global storage due to limitations in tie and knowledge.
 
--your acceptance tests, such as how they were performed and with whom
+Success criteria:
+A functioning app/program: Ja! Allting fungerar med github osv. Vi har dock inte fått de funktioner vi utvecklat att fungera 100%
+A structured process: Bättre än tidigare men något bristfälligt då vi har haft deadline för kandidatarbetet. Vi har använt tidsestimeringar och det har fungerat bra, vidare har vi delat upp user stories i mindre bitar. Alla har haft mycket med kandidatarbetet och strukturen har fått lita för det.
+Great code quality: Blir allt bättre. Med teletype har vi kunnat koda tillsammans och det har lett till att själva kod kvaliteten har blivit bättre. Kodkvaliteten känns dock något sekundär eftersom att vi inte lyckats få det att fungera riktig än.
+Great team spirit: Ganska bra! Vi har inte kunnat sitta tillsammans lika mycket denna veckan, men det blir bättre nästa vecka.
+
+Three KPIs for monitoring our progress:
+Perceived Success:
+  Levin: 2
+  Rikard: 2, inte tillräckligt med tid spenderat på kursen.
+  Alice:
+  Clara:
+  Stina:
+Indvidual contribution: Vi har varken på grupp eller individnivå lagt ner tillräckligt med tid på kursen vilket tagit sitt utryck i att bidrag på individnivå och gruppnivå varit bristfälliga.
+Quality of code (use FindBugs): Findbugs har använts i viss mån, men mer som troubleshooting än som code quality check. Har fungerat bra för att hitta varför appen inte fungerar eller varför en funktion inte fungerar.
+
+Roles:
+Scrum Master: Rikard, has joined scrum of scrums and is trying his best to apply scrum to how we work.
+PO responsible: Clara, has had contact with our end-users to get feedback on our progress.
+
+Empowerment & self organization:
 
 -the design of your application (choice of APIs, architecture patterns etc)
+vi har endast arbetat med att utveckla vessel info delen av appen och har inte gjort några arkitektuella föreändringar av stukturen.
+Nästa vecka kommer fortsätta på samma sätt då vi endast arbetar med att utveckla kommetarfältet för sig.
 
 -the behavioural overview of your application (for instance through use cases, interaction diagrams or similar)
+vi har fortfarane inte haft någon interaktion med vår app. vi har dock en klar idé om hur vi vill att den ska fungera och har gjort en mockup flr att illustrera detta.
+Vi har fått feedback på mockupen från slutanvändaren vilket för att vi kan konststera att vi är påvägi rätt rikting.
 
 -the structural overview of your application (such as class diagrams, domain models or component diagrams)
+Vi arbetar främst med shipinfo på olika sätt som har kontakt med Ships.json. överig struktur av appe nberörs ej av ändringarna.
 
 -your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation
-
--the three KPIs you use for monitoring your progress
-
--code quality using a tool such as Findbugs (1 point if your code includes issues concerning correctness or bad style, 2 points if you have dodgy or performance issues and 3 points if the code is fine), only asses the code you have written yourself
-
--the roles you have used within the team
+Detta rullar på bra.  Vi har delat upp userstories i mindre deluppgifter och tidsestimerat dessa. (även om tidsestimeringarna visat sig vara helt fel). För varje deluppgift blir vi dock bättre på att uppskatta tidåtgång och hastighet.
 
 -the agile practices you have used for the current sprint
+Vi fortstätter använda trello som verkyg för SCRUM-board. Vi har även använd tidsestimeringar på ett bra sätt samt uppdeling av US. Tyvärr har vi väl inte applicerat SCRUM fullt ut pga. bristande tid.
 
 -the time you have spent on the course (so keep track of your hours so you can describe the current situation)
+kandidatarbetet och kristihimmelfärd har tagit tid från kursen. ca. 10-15h pps. Nästa vecka blir bättre pga. ingen ledighet och kandidatarbete inlämnat.
 
 -the sprint review (either in terms of outcome of the current week's exercise or meeting the product owner)
+I förhållande till tiden som lagts ner på kursen har vi fått feedback på att vi går i frotfatt rätt rikting. även om det är små steg.
+Vi har möjlighet att kontrollera usr input, men svårigheter att spara den i listor, dvs vi kan endast få upp en komemtnar i taget.
 
 -best practices for using new tools and technologies (IDEs, version control, scrum boards etc.)
+Alla är överens över vilka program som ska användas och hur git används samt att trellon uppdateras löpande.
 
 -relation to literature and guest lectures (how do your reflections relate to what others have to say?)
+All info vi tar del av numera är Q&A's på t.ex. stack overflow och youtube. Även lynda och coursera har använts.
