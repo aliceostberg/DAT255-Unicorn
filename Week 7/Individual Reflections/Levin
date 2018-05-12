@@ -1,0 +1,12 @@
+• What do I want to learn or understand better?
+I would really like to understand how to save information in the app. Now i manage to save comments and retrieve them in the same session, but saving them between sessions and between units is what we aim for. 
+
+• How can I help someone else, or the entire team, to learn something new?
+Well, figuring out wich package we should use for saving would be a great contribution. As for now we try to use Async, but havent really got that to work. To find a package we could use and to get that to work is the goal for this sprint. 
+
+• What is my contribution towards the team’s application of scrum?
+This week was a pretty bad week from a scrum perspective. We used time estimations pretty good, also we ”sliced the elephant” in a good way. However, the time we spent on the course was limited due to deadline of the bachelor thesis. I Think that this sprint will be a lot better. 
+
+
+• What is my contribution towards the team’s deliveries? 
+I worked with the comment section and got that to work pretty neat. Also managed to save comments during a session. But what i really want to achieve is to save between sessions, between units and to specific boats. I think that the first step is to understand how the saving in the same session works, so that i can find out how to make that work between sessions. Eg. it is saved in a temp file and change that to saving a json. 
