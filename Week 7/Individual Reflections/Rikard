@@ -1,0 +1,17 @@
+Reflection Week 7
+
+•	what do I want to learn or understand better?
+Local storing of comments. Last week we started working on on storing comments.
+We then realised that the scope of global comments might be too big so we're changeing it to storing comments locally to begin with.
+
+•	how can I help someone else, or the entire team, to learn something new?
+Currently working with Levin and Alice on storing comments, trying different approaches and learnign from eachother.
+when i encounter a method that works, i help them understand it som they can continue to develope it.
+
+•	what is my contribution towards the team’s application of scrum?
+Cutting down the stories to smaller pieces with a realistic scope. this means we have a bigger chance of delivering something
+
+•	what is my contribution towards the team’s deliveries?
+	I've been working with the comentfield developement, so far we've manage to handle user imput and save it.
+  Our goal for this sprint is to get the app to fetch loally sotres lists of comments and display them in a container i nthe app.
+  We'll get there by exploring different packages and methods of storing data. currently wokring with Async, a built in function in React.
