@@ -1,26 +1,34 @@
 Social contract:
 
 Scope:
-we've limited the tonnage info to 10 boats because there was no database to access. this way we can show the users the alue of the tonnage info.
-This also means they can use it to justify getting access to a back-end database.
+we've limited the tonnage info to 10 boats because there was no database to access. This way we can show the users the value of the
+tonnage info. This also means they can use it to justify getting access to a back-end database.
 
-The scope of the comment developement is currently limited to local storage. we revised this from global storage due to limitations in tie and knowledge.
+The scope of the comment developement is currently limited to local storage. We revised this from global storage due to limitations
+in time and knowledge.
 
 Success criteria:
 A functioning app/program: Ja! Allting fungerar med github osv. Vi har dock inte fått de funktioner vi utvecklat att fungera 100%
-A structured process: Bättre än tidigare men något bristfälligt då vi har haft deadline för kandidatarbetet. Vi har använt tidsestimeringar och det har fungerat bra, vidare har vi delat upp user stories i mindre bitar. Alla har haft mycket med kandidatarbetet och strukturen har fått lita för det.
-Great code quality: Blir allt bättre. Med teletype har vi kunnat koda tillsammans och det har lett till att själva kod kvaliteten har blivit bättre. Kodkvaliteten känns dock något sekundär eftersom att vi inte lyckats få det att fungera riktig än.
+A structured process: Bättre än tidigare men något bristfälligt då vi har haft deadline för kandidatarbetet. Vi har använt 
+tidsestimeringar och det har fungerat bra, vidare har vi delat upp user stories i mindre bitar. Alla har haft mycket med 
+kandidatarbetet och strukturen har fått lita för det.
+Great code quality: Blir allt bättre. Med teletype har vi kunnat koda tillsammans och det har lett till att själva kod kvaliteten 
+har blivit bättre. Kodkvaliteten känns dock något sekundär eftersom att vi inte lyckats få det att fungera riktig än.
 Great team spirit: Ganska bra! Vi har inte kunnat sitta tillsammans lika mycket denna veckan, men det blir bättre nästa vecka.
 
 Three KPIs for monitoring our progress:
 Perceived Success:
   Levin: 2
   Rikard: 2, inte tillräckligt med tid spenderat på kursen.
-  Alice:
+  Alice: 2
   Clara:
   Stina:
-Indvidual contribution: Vi har varken på grupp eller individnivå lagt ner tillräckligt med tid på kursen vilket tagit sitt utryck i att bidrag på individnivå och gruppnivå varit bristfälliga.
-Quality of code (use FindBugs): Findbugs har använts i viss mån, men mer som troubleshooting än som code quality check. Har fungerat bra för att hitta varför appen inte fungerar eller varför en funktion inte fungerar.
+
+Indvidual contribution: Vi har varken på grupp eller individnivå lagt ner tillräckligt med tid på kursen vilket tagit sitt utryck
+i att bidrag på individnivå och gruppnivå varit bristfälliga.
+
+Quality of code (use FindBugs): Findbugs har använts i viss mån, men mer som troubleshooting än som code quality check. 
+Har fungerat bra för att hitta varför appen inte fungerar eller varför en funktion inte fungerar.
 
 Roles:
 Scrum Master: Rikard, has joined scrum of scrums and is trying his best to apply scrum to how we work.
@@ -33,24 +41,28 @@ vi har endast arbetat med att utveckla vessel info delen av appen och har inte g
 Nästa vecka kommer fortsätta på samma sätt då vi endast arbetar med att utveckla kommetarfältet för sig.
 
 -the behavioural overview of your application (for instance through use cases, interaction diagrams or similar)
-vi har fortfarane inte haft någon interaktion med vår app. vi har dock en klar idé om hur vi vill att den ska fungera och har gjort en mockup flr att illustrera detta.
-Vi har fått feedback på mockupen från slutanvändaren vilket för att vi kan konststera att vi är påvägi rätt rikting.
+vi har fortfarane inte haft någon interaktion med vår app. vi har dock en klar idé om hur vi vill att den ska fungera och har gjort 
+en mockup för att illustrera detta. Vi har fått feedback på mockupen från slutanvändaren vilket för att vi kan konststera att vi 
+är påväg i rätt rikting.
 
 -the structural overview of your application (such as class diagrams, domain models or component diagrams)
-Vi arbetar främst med shipinfo på olika sätt som har kontakt med Ships.json. överig struktur av appe nberörs ej av ändringarna.
+Vi arbetar främst med shipinfo på olika sätt som har kontakt med Ships.json. överig struktur av appen berörs ej av ändringarna.
 
 -your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation
-Detta rullar på bra.  Vi har delat upp userstories i mindre deluppgifter och tidsestimerat dessa. (även om tidsestimeringarna visat sig vara helt fel). För varje deluppgift blir vi dock bättre på att uppskatta tidåtgång och hastighet.
+Detta rullar på bra.  Vi har delat upp userstories i mindre deluppgifter och tidsestimerat dessa. (även om tidsestimeringarna 
+visat sig vara helt fel). För varje deluppgift blir vi dock bättre på att uppskatta tidåtgång och hastighet.
 
 -the agile practices you have used for the current sprint
-Vi fortstätter använda trello som verkyg för SCRUM-board. Vi har även använd tidsestimeringar på ett bra sätt samt uppdeling av US. Tyvärr har vi väl inte applicerat SCRUM fullt ut pga. bristande tid.
+Vi fortstätter använda trello som verkyg för SCRUM-board. Vi har även använd tidsestimeringar på ett bra sätt samt uppdeling av US.
+Tyvärr har vi väl inte applicerat SCRUM fullt ut pga. bristande tid.
 
 -the time you have spent on the course (so keep track of your hours so you can describe the current situation)
-kandidatarbetet och kristihimmelfärd har tagit tid från kursen. ca. 10-15h pps. Nästa vecka blir bättre pga. ingen ledighet och kandidatarbete inlämnat.
+Kandidatarbetet och kristihimmelfärd har tagit tid från kursen. ca. 10-15h pps. Nästa vecka blir bättre pga. ingen ledighet och 
+kandidatarbete inlämnat.
 
 -the sprint review (either in terms of outcome of the current week's exercise or meeting the product owner)
-I förhållande till tiden som lagts ner på kursen har vi fått feedback på att vi går i frotfatt rätt rikting. även om det är små steg.
-Vi har möjlighet att kontrollera usr input, men svårigheter att spara den i listor, dvs vi kan endast få upp en komemtnar i taget.
+I förhållande till tiden som lagts ner på kursen har vi fått feedback på att vi går i frotfatt rätt rikting. Även om det är små steg.
+Vi har möjlighet att kontrollera user input, men svårigheter att spara den i listor, dvs vi kan endast få upp en komemtnar i taget.
 
 -best practices for using new tools and technologies (IDEs, version control, scrum boards etc.)
 Alla är överens över vilka program som ska användas och hur git används samt att trellon uppdateras löpande.
