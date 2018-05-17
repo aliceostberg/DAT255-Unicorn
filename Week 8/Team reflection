@@ -1,1 +1,79 @@
-hihi
+Social contract: Vi anser att vårt social contract har upprätthålls sen den förra sprinten. 
+
+Scope: Scopet på projektet är samma som förra veckan. Vi har insett att det är svårt att spara data globalt och det konfirmerades av 
+Pontus under handledningen. Scopet blir därför att tills presentationen kunna lösa en fungerande commentfunktion med hjälp av actions
+ och reducers. 
+
+Success criteria:
+A functioning app/program: Allting fungerar men vi har inte lyckats implementera det vi har som mål inför presentationen. 
+Målet är att det vi satt som scope ska vara uppfyllt tills presentationsdagen. 
+
+A structured process: Svårdefinierat då mycket har handlat om try and error. 
+Great code quality: Blir allt bättre. Vi gjorde en testning av ursprungskoden som visade resultatet ”Poor”. Dvs, det känns svårt att
+ kontrollera kvaliteten på sin egen kod när det man bygger vidare på inte är bra. Vi upplever dock själva att att kodningen går enklare
+ nu än tidigare i kursen.
+
+Great team spirit: Överlag bra team spirit! Men blir som sagt svårare att upprätthålla när gruppen är utspridd. 
+
+Three KPIs for monitoring our progress:
+
+Perceived Success:
+Levin: 3
+Rikard:
+Alice: 3
+Clara: 3
+Stina: 2
+
+Individual contribution: 
+Alla har lagt olika mycket tid på kursen den här sprinten men planerar att ta igen det framöver.  
+
+
+Quality of code (use FindBugs): Har fortsatt använda Findbugs mest för att kontrollera koden innan emulatorn för att tidigt upptäcka fel. 
+Vidare hjälper det att hitta vart vi har gjort fel, så vi har snarare använt det som ett sätt att få koden att fungera snarare än
+ att få koden att vara av bra kvalitet. 
+
+Roles:
+Scrum Master: Rikard
+PO responsible: Clara
+
+Empowerment & self organization:
+Inte varit tydlig uppdelning i vem som gör vad eller förväntad deadline. Alla ’tasks’ finns i trello men distributionen har 
+varit näst intill osynlig. Detta måste förbättras till nästa sprint.   
+
+
+-the design of your application (choice of APIs, architecture patterns etc)
+Fortfarande har design inte varit i fokus då fokuset ligger på att få koden att fungera. Vi har dock varit i kontakt
+ med klienten för att se vilka delar av appen som kan ses som redundanta men vi har inte kommit fram till något. 
+
+-the behavioural overview of your application (for instance through use cases, interaction diagrams or similar)
+Vi gjorde som nämns ett quality assurence test på koden som visade låg grad. Detta beror dock på kodens initiala läge vid överlämning. 
+
+-the structural overview of your application (such as class diagrams, domain models or component diagrams)
+Vi jobbar med förbättringsarbete i en egen flik i appen - en testmiljö - för att det ska bli enklare att
+ urskilja de ändringar som gjorts samt för att kunna jämföra ursprungsversionen med den nya (och för att inte råka förstöra något). 
+
+-your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation
+Vår primära user story har fortfarande varit att skapa ett kommentarsfält under respektive vessel. User storyn har tagit
+ betydligt längre tid än estimerat då detta är den tredje sprinten user storyn behandlas. 
+
+-the agile practices you have used for the current sprint
+Vi har utnyttjat vår SCRUM-board i Trello där överblick av User Stories getts. 
+
+-the time you have spent on the course (so keep track of your hours so you can describe the current situation)
+Vi har i princip lagt ner den förväntade mängden tid på kursen - något mindre på grund av kort vecka (kristihimmelfärd osv). 
+
+-the sprint review (either in terms of outcome of the current week's exercise or meeting the product owner)
+Vi har inte nått målen för förra veckan i att få allting att funka. Dock har vi kommit långt på vägen då vi har gått igenom olika
+ paket som skulle kunna vara lämpliga och kom slutligen fram till att samtliga paket vi kollat på har varit otillräckliga.
+ Istället visade Pontus på ett sätt som det skulle kunna lösas på. Det kan tyckas att detta innebär att vi misslyckats,
+ men vi anser att vi på vägen lärt hos en hel del. 
+
+-best practices for using new tools and technologies (IDEs, version control, scrum boards etc.)
+Gruppen använder git på ett utmärkt sätt och delar upp olika utvecklingsförsök i olika branches. Vidare använder alla de 
+program vi bestämt på ett effektivt sätt. Vi har dock kanske inte använt vår scrumboard i tillräcklig utsträckning, 
+men det beror också på att vi egentligen inte har gjort så stora framsteg sett till delar av userstories. 
+
+-relation to literature and guest lectures (how do your reflections relate to what others have to say?)
+Vi har inte haft någon vidare relation till litteratur som vanligt. Istället har det googlats mycket på Asynstorage,
+ vilket ledde till att vi inte använde det utan istället kör på action och reducers som finns inbyggt i appen. 
+Denna info hittas som vanligt via nätet på forum som stackoverflow osv. 
