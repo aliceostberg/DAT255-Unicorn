@@ -1,0 +1,13 @@
+Reflection Week 8
+
+•	what do I want to learn or understand better?
+We're still working on comment storage. by now we've figured out how to store comments, but are running into problems when handling arrays, both saving and displaying them. This sprint will focus on wrapping up what we've started and actually having something to show on the 23rd.
+
+•	how can I help someone else, or the entire team, to learn something new?
+By coming with new ideas and approaches to our current problems and not being afraid to try a new route when we're stuck.
+
+•	what is my contribution towards the team’s application of scrum?
+other than attending the weekly meeting with the scrum masters we havn't used scrum to its full extent. by now we're focusing on a single Epic and trying to get pieces of it to work.
+
+•	what is my contribution towards the team’s deliveries?
+	Still working on the comment field Dev. we've now found a way of locally storing comment using actions and reducers in Redux. this means we have a working comments but we can only store one comment at a time. now it's time to make it into an array that we can save and display!
