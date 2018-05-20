@@ -17,50 +17,85 @@ Vi har bestämt att från och med nu, bevaka det nya KPI:et istället för quant
 Mean: 3.4 :D
 
 Empowerment & Self organization:
-Förra veckan insåg vi att Quantity of code inte fungerar så bra som KPI. Då trodde vi att det berodde på att vi inte jobbat aktivt med kodande och att det skulle komma att ändra sig. Då denna sprint bestått av en hel del kodande torde Quantity of code bli ett bättre KPI men vi upplever att så inte riktigt är fallet. Vi inser att längden kod är relativt irrelevant för att skapa värde åt oss, PO & klienter. Det vi dock värdesätter är Quantity of code i hur mycket av en user stories som gör, oavsett längden på kodraden. 
+Förra veckan insåg vi att Quantity of code inte fungerar så bra som KPI. Då trodde vi att det berodde på att vi inte jobbat 
+aktivt med kodande och att det skulle komma att ändra sig. Då denna sprint bestått av en hel del kodande torde Quantity 
+of code bli ett bättre KPI men vi upplever att så inte riktigt är fallet. Vi inser att längden kod är relativt irrelevant 
+för att skapa värde åt oss, PO & klienter. Det vi dock värdesätter är Quantity of code i hur mycket av en user stories 
+som gör, oavsett längden på kodraden. 
 
-Vi har tidigare bestämt att definiera vad som ska göras till slutet av varje sprint, vilket har förbättringspotential. Denna sprint började vi arbeta på en ny user story i mitten av sprinten vilken inte hade ett definierat start och slut. Detta tar vi som lärdom och ska försöka i början av varje sprint definiera vad som ska göras och bli bättre på att estimera hur mycket tid varje moment kommer ta.   
+Vi har tidigare bestämt att definiera vad som ska göras till slutet av varje sprint, vilket har förbättringspotential. 
+Denna sprint började vi arbeta på en ny user story i mitten av sprinten vilken inte hade ett definierat start och slut. 
+Detta tar vi som lärdom och ska försöka i början av varje sprint definiera vad som ska göras och bli bättre på att 
+estimera hur mycket tid varje moment kommer ta.   
 
 Success criteria for the teams (what do we want to achieve with our application) 
--	A functioning app/program:  Appen fungerar för alla och äntligen har vi fått bra rutiner rörande github, med fungerande gitignore.
--	A structured process: Nu när vi har börjat koda och beta av userstories har vi verkligen fått en bättre struktur. Vi har börjat använda oss av tidsestimeringar, och även om vi estimerade relativt dåligt tar vi med oss en rad lärdomar inför nästa sprint. Exempelvis har vi lärt oss att UI kodningen i två user stories tog väldigt kort tid, medan implementationen och synkningen med resten av systemet var mycket komplicerad. 
--	Great code quality: Vi lär oss efterhand och koden blir därmed bättre och bättre, men vi har fortfarande mycket att lära och utveckla på den fronten. Vi har lyckats få till parkodning och samarbete på ett effektivt sätt och på så sätt kan vi arbeta parallellt. 
--	Great team spirit: Vi har tillsammans kämpat för att få git att fungera för alla och vår team spirit är verkligen på topp nu när vi kan börja beta av user stories.
+-	A functioning app/program:  Appen fungerar för alla och äntligen har vi fått bra rutiner rörande github, med fungerande 
+gitignore.
+-	A structured process: Nu när vi har börjat koda och beta av userstories har vi verkligen fått en bättre struktur. Vi 
+har börjat använda oss av tidsestimeringar, och även om vi estimerade relativt dåligt tar vi med oss en rad lärdomar 
+inför nästa sprint. Exempelvis har vi lärt oss att UI kodningen i två user stories tog väldigt kort tid, medan 
+implementationen och synkningen med resten av systemet var mycket komplicerad. 
+-	Great code quality: Vi lär oss efterhand och koden blir därmed bättre och bättre, men vi har fortfarande mycket att 
+lära och utveckla på den fronten. Vi har lyckats få till parkodning och samarbete på ett effektivt sätt och på så sätt 
+kan vi arbeta parallellt. 
+-	Great team spirit: Vi har tillsammans kämpat för att få git att fungera för alla och vår team spirit är verkligen på 
+topp nu när vi kan börja beta av user stories.
 
 Three KPIs we use for monitoring our progress 
 -	Quantity of code: Alla har kodat lite i appen vilket är väldigt positivt. 
 -	Indvidual contribution: Vi har lagt ner proportionerlig tid jämfört med kursens omfattning. 
--	Quality of code (use FindBugs): Kvaliteten på koden har inte mätts via findbugs, istället har vi sett till att koden faktiskt leder till att en ändring i appen fakiskt fungerar. Eftersom att vi är mitt uppe i kodandet tänker vi använda Findbugs etc. under denna sprint. 
+-	Quality of code (use FindBugs): Kvaliteten på koden har inte mätts via findbugs, istället har vi sett till att koden 
+¨faktiskt leder till att en ändring i appen fakiskt fungerar. Eftersom att vi är mitt uppe i kodandet tänker vi använda 
+Findbugs etc. under denna sprint. 
 
 Roles in our team 
-Scrum master har varit på scrum of scrum och PO-ansvarig har skickat mail till PO för att dubbelkolla om framtida eventuell avskalning. Även gruppen har diskuterat med PO.
+Scrum master har varit på scrum of scrum och PO-ansvarig har skickat mail till PO för att dubbelkolla om framtida 
+eventuell avskalning. Även gruppen har diskuterat med PO.
 
 • Relation to litterature and guest lectures 
-Vi har hängt mycket på stackoverflow och i vessel registry för att försöka lösa våra olika tasks och user stories. Detta har hjälpt oss på traven.
+Vi har hängt mycket på stackoverflow och i vessel registry för att försöka lösa våra olika tasks och user stories. Detta 
+har hjälpt oss på traven.
 
 The chosen scope of the application under development, including priority of features and for whom you are creating value 
 Vi väljer att fokusera på kommentarsfält, som skapar värde för klienterna. 
 
-Your acceptance tests, such as how they were performed and with whom Vi har uppdaterat PO om nuvarande WIP och fått positiv feedback om värdet det skulle skapa för PO och klient, dvs. framförallt värdet av kommentarsfält och tonnage.   
-• The design of your application  Än så länge har mest fokus lagt på kod och att få funktionerna att fungera. Designen kommer härnäst. En mockup är under utveckling och planeras skicka till PO och klient för att få feedback.
+Your acceptance tests, such as how they were performed and with whom 
+Vi har uppdaterat PO om nuvarande WIP och fått positiv feedback om värdet det skulle skapa för PO och klient, dvs. 
+framförallt värdet av kommentarsfält och tonnage.   
+
+• The design of your application 
+Än så länge har mest fokus lagt på kod och att få funktionerna att fungera. Designen kommer härnäst. En mockup är under 
+utveckling och planeras skicka till PO och klient för att få feedback.
 
 The behavioral overview of your application (for example through use cases, interaction diagrams) 
 Vi har inte låtit extern part tagit del av appen ännu.  
-• The structural overview of your application (domain model)  Vi funderar på att skala av appen och att endast behålla de funktioner som är relevanta för  
+
+• The structural overview of your application (domain model)  
+Vi funderar på att skala av appen och att endast behålla de funktioner som är relevanta för  
 klienterna. Väntar på OK från PO om detta.  
+
 • Your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort hanterats:
 Under sprinten har följande user stories bearbetas:
-- Lägga till tonnage i Vesselinfo i appen: utifrån nya kriterier så kan info ej tas från databas. Dock har vi förberett så att information kan tas från angiven databas och manuellt lagt in värden för 5 fartyg.  Detta har sammanlagt tagit ~30 h.
-- Lägga till ett kommentarsfält: För att kunna addera viktig info om respektive fartyg utformas ett kommentarsfält. Detta har påbörjats och kräver att en mindre backend skall utformats. Detta sker på en egen branch och ytterligare en flik har lagts till där funktionen utvecklas i den branchen. 
-- Hur teamet ska samarbeta: Äntligen har vi fått igång Git och strukturerat börjat arbeta med olika branches. Vi har delat upp user stories och börjat parallellt jobba i olika branches. Detta tycker vi har funkat bra!  
+- Lägga till tonnage i Vesselinfo i appen: utifrån nya kriterier så kan info ej tas från databas. Dock har vi förberett så 
+att information kan tas från angiven databas och manuellt lagt in värden för 5 fartyg.  Detta har sammanlagt tagit ~30 h.
+- Lägga till ett kommentarsfält: För att kunna addera viktig info om respektive fartyg utformas ett kommentarsfält. Detta 
+har påbörjats och kräver att en mindre backend skall utformats. Detta sker på en egen branch och ytterligare en flik har 
+lagts till där funktionen utvecklas i den branchen. 
+- Hur teamet ska samarbeta: Äntligen har vi fått igång Git och strukturerat börjat arbeta med olika branches. Vi har delat 
+upp user stories och börjat parallellt jobba i olika branches. Detta tycker vi har funkat bra!  
+
 • Code quality using a tool such as Findbugs 
 Vi har inte avnänt oss av Findbugs då vi hittills inte har behandlat kod som anses behöva debuggas.
 
 • The agile practices you have used for the current sprint 
-Vi har fortsatt att använda oss av vår Trello board som fortsätter utvecklas. Nu har tidsestimat på varje Story lagts till som kan utvärderas och användas för att mäta velocity av sprinten.
+Vi har fortsatt att använda oss av vår Trello board som fortsätter utvecklas. Nu har tidsestimat på varje Story lagts 
+till som kan utvärderas och användas för att mäta velocity av sprinten.
 
 • The time you have spent on the course 
 Valborg har avspeglat tiden som lagts på kursen men det går att estimera lagt arbete till 15h per person.
 
-The sprint review(either in terms of the outcome of the current week’s exercise or meeting the product owner best practices for using new tools and technologies
-Positiva besked från product owner agnående pågående arbete med kommentarsfältet. vi kunde visa upp strukturen för hur front enden ska se ut och fick bekräftelse på att vi arbetea i rätt riktning. kommande sprint kommer fokus ligga på att kunna lagra kommenterar via en back end databas.
+The sprint review(either in terms of the outcome of the current week’s exercise or meeting the product owner best practices 
+for using new tools and technologies
+Positiva besked från product owner agnående pågående arbete med kommentarsfältet. vi kunde visa upp strukturen för hur
+front enden ska se ut och fick bekräftelse på att vi arbetea i rätt riktning. kommande sprint kommer fokus ligga på att 
+kunna lagra kommenterar via en back end databas.
