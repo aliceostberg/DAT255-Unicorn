@@ -1,0 +1,20 @@
+• What do I want to learn or understand better?
+The goal during the sprint was trying to understand how to store comments that we have added through the comment field. 
+During the super vision it turned out that there was a "pre set way" of doing this in react-native-redux, which was a surprise
+for all of us. Therefore, i would like to learn more about the action+reducer to be able to finish the comment field-user story.
+
+• How can I help someone else, or the entire team, to learn something new?
+I was in contact with the client during the week, again, to get information about what parts of the application that we 
+could cut. Unfortunately they didn't respond. 
+
+• What is my contribution towards the team’s application of scrum?
+We have been having a bit of a problem with the application of scrum this sprint. The reason for that is probably that 
+some of us have been out town, and it has also been "Kristihimmelfärd". Therefore, it has been a bit hard to cooperate. 
+During the last day, though, at least three of us could meet for cooperating and planning. Everyone has been working 
+on the same userstory this week, which wasnt very good.. but since that story is the only function, except small ones,that we want 
+to succeed with before the presentation it will prioritised. 
+
+• What is my contribution towards the team’s deliveries?
+I havent succeeded with a lot during this sprint, bur at least i got some information (with the action, reducer) of how to implement 
+the function. We also listened to the small lecture about the presentation and asked questions about the final report to be 
+able to perform the best way possible. 
