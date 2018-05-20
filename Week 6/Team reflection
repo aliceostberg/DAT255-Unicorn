@@ -5,14 +5,6 @@ Den här veckan har vi lärt oss mer om HUR man utvecklar mjukvara då vi har f�
 KPIs for monitoring our progress:
 Förra veckan insåg vi att Quantity of code inte fungerar så bra som KPI. Då trodde vi att det berodde på att vi inte jobbat aktivt med kodande och att det skulle komma att ändra sig. Då denna sprint bestått av en hel del kodande torde Quantity of code bli ett bättre KPI men vi upplever att så inte riktigt är fallet. Vi inser att längden kod är relativt irrelevant för att skapa värde åt oss, PO & klienter. Det vi dock värdesätter är Quantity of code i hur mycket av en user stories som gör, oavsett längden på kodraden. 
 
-Vi har bestämt att från och med nu, bevaka det nya KPI:et istället för quantity of code, upplevd framgång under sprinten (skala 1-5) (Perceived success)
-- Alice: 3
-- Clara: 3
-- Levin: 4
-- Rikard: 4
-- Stina: 2
-Mean: 3.2 :D
-Empowerment & Self organization:
 Vi har tidigare bestämt att definiera vad som ska göras till slutet av varje sprint, vilket har förbättringspotential. Denna sprint började vi arbeta på en ny user story i mitten av sprinten vilken inte hade ett definierat start och slut. Detta tar vi som lärdom och ska försöka i början av varje sprint definiera vad som ska göras och bli bättre på att estimera hur mycket tid varje moment kommer ta.   
 
 Success criteria for the teams (what do we want to achieve with our application) 
