@@ -34,7 +34,7 @@ Software Engineering Project
 **Roles:**
 <br>• SCRUM Product Owner - Clara
 <br>• SCRUM Master - Rikard
-<br>• SCRUM Team - The rest of the group
+<br>• SCRUM Team/Development Team - The rest of the group
 <br>
 <br>
 **Empowerment & Self organization:**
