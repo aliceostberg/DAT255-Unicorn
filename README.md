@@ -11,7 +11,7 @@ The code is found in another repo. https://github.com/aliceostberg/portablecdm
 See readme there for more info about the code.
 
 
-**Team:**
+
 # Social Contract
 
 **Team members:**
