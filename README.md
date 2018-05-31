@@ -4,7 +4,7 @@
 Software Engineering Project
 
 # INFO
-Below is our social contract. The weeks are divided as above. In each folder you will find either 'individual reflections' or 'team reflection'. 
+Below is our social contract. The weeks are divided as above. In each folder you will find either 'individual reflections' or 'team reflection'. For the final reflection: It is found in the folder 'Final reflections'.
 
 # CODE
 The code is found in another repo. https://github.com/aliceostberg/portablecdm
