@@ -1,0 +1,30 @@
+Slutreflektion Rikard
+
+Reflektionen skrivs med utgångspunkt i hela kursens gång.
+
+•	what do I want to learn or understand better?
+Från vad jag arbetat med under kursen finns det ett par saker som jag skulle vilja arbeta vidare med att förstå. Gällande struktureringen av arbete vill jag fortsätta utveckla strukturering av arbete med hjälp av visuella hjälpmedel, i vårt fall Trello. Det har visat sig vara ett extremt vettigt verktyg och jag tror att utan det hade vi varit ännu mer vilsna än vi var under kursens gång. 
+
+När det kommer till kodandet blev sista sprinten en uppenbarelse för mig. Under utvecklingen av kommentarsfältet satt vi egentligen med två stora problem. Dels att vårt kommentarsfält sparade ner värden varje gång texten ändrades och dels att vi inte lyckades skriva ut ett element av listan på varje rad, utan allt hamnade efter varandra i en enda lång rad. Vi fick sedan tipset att använda oss av testfunktioner för att kolla så att delmoment av vår kod fungerade. Vi skrev alltså en funktion som i terminalen loggade när ett värde sparades och vilket värde det var. På så sätt kunde vi arbeta med en del av problemet i taget. Det här är definitivt något jag kommer använda mig av i min fortsatta utveckling inom IT! 
+
+•	how can I help someone else, or the entire team, to learn something new?
+En intressant punkt att blicka tillbaka på och reflektera över. Jag tror att vår grupp genom kursen tappat mycket på grund av bristfällig mångfald. Med det menar jag att vi gick in med någorlunda liknande kompetenser, och fortsatte utvecklas åt samma håll genom kursen. Det har gjort att vi inte har kunnat ta vara på varandras kunskaper utan när man väl förstår något som man hade kunnat lära andra är sannolikheten stor att alla gruppmedlemmar redan gjort samma lärdom.
+
+Ett exempel på detta är att det tog oss fyra veckor att få igång appen i emulatorn, och då arbetade alla med det för vi inte insåg att det fanns annat man kunde göra. Hade vi haft möjligheten att börja om hade det varit otroligt mycket effektivare att istället dela upp arbetet och istället låta exempelvis två personer arbeta med att få igång emulatorn, två personer som arbetar med att skapa och bryta ner user stories och två personer som kartlägger Javascriptkoden. 
+
+•	what is my contribution towards the team’s application of scrum?
+Jag har under projektets gång agerat Scrum master och försökt få ihop en väldigt geografiskt splittrad grupp. Detta innebär att jag har haft kontakt med andra grupper genom scrum of scrums samt att jag har ansvarat för att vi ska arbeta enligt Scrum metodiken. Något som har svårt då förutsättningarna som beskrivs i kurslitteraturen inte existerat.
+
+Sprinter bestämdes till att pågå från onsdagar till onsdagar för att det var enda gången då alla medlemmar kunde närvara, samt att många valde att lägga sin tid på kursen på helgen och att de då skulle kunna arbeta. Resulterade i väldigt hackigt då medlemmar valde att lägga sin tid för kursen vid lika tillfällen. det gick därför inte att ha stand up meetings för att stämma av vad som gjorts och vad som behövde göras. strukturen och därmed en del av poängen med Scrum gick förlorad.
+
+För framtiden hoppas jag kunna fortsätta använda inslag av scrum. (blir svårt att använda Scrum då detta "existerar i sin helhet eller inte alls"). Då med längre sprinter för att kunna leverera mer samt i synk med mitt development team. Det har om än svårt varit mycket lärorikt att agera Scrum Master. Utfallet har varit långt ifrån optimalt men det är även en erfarenhet att försöka anpassa den rådande situationen till bästa.
+
+•	what is my contribution towards the team’s deliveries?
+Den 23e kom och vi lyckades faktiskt skapa något vi kunde visa upp, det hade jag aldrig trott två veckor tidigare. Men, ändå en riktigt go känsla att kunna stå och visa upp något vi själva har skapat.
+
+När det kommer till mina egna bidrag har jag varit delaktigt från start till slut i all funktionalitet som byggts i applikationen. Från att skapa och bryta ner user stories till det faktiska kodandet.
+
+Det har varit slitsamt med många timmar av att dra sig i håret och slå nävarna i bordet över kod som inte fungerar, men det känns ändå som att man lärt sig en del på vägen.
+
+Allt som allt går jag från den här kursen som en något tunnhårigare, men mycket visare man. Tack för en go kurs!
+
