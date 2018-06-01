@@ -11,7 +11,7 @@ The code is found in another repo. https://github.com/aliceostberg/portablecdm
 See readme there for more info about the code.
 
 # PRODUCT AND SPRINT BACKLOG
-The product and sprint backlog for this project is found here: https://trello.com/b/0Y6JIQzo
+The product and sprint backlog for this project can be found here: https://trello.com/b/0Y6JIQzo
 
 
 # Social Contract
