@@ -1,7 +1,7 @@
 
 
 # DAT255-Unicorn
-Software Engineering Project
+This is a Software Engineering Project that runs at Chalmers University of Technology. 
 
 # INFO
 Below is our social contract. The weeks are divided as above. In each folder you will find either 'individual reflections' or 'team reflection'. For the final reflection: It is found in the folder 'Final reflections'.
@@ -10,6 +10,8 @@ Below is our social contract. The weeks are divided as above. In each folder you
 The code is found in another repo. https://github.com/aliceostberg/portablecdm
 See readme there for more info about the code.
 
+# PRODUCT AND SPRINT BACKLOG
+The product and sprint backlog for this project is found here: https://trello.com/b/0Y6JIQzo
 
 
 # Social Contract
